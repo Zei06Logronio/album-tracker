@@ -1,14 +1,14 @@
 :root {
-  --ink: #1b1a2e;
-  --surface: #27253f;
-  --raised: #34314f;
+  --ink: #103242;     
+--label: #5eead4;
+  --raised: #1f1c36;
   --text: #f2ede4;
   --muted: #a9a4bd;
   --label: #f2b84b;
   --danger: #ff8a7a;
   --radius: 10px;
   --body: "DM Sans", system-ui, sans-serif;
-  --display: "Fraunces", Georgia, serif;
+     --display: "Playfair Display", Georgia, serif;
 }
 
 *, *::before, *::after { box-sizing: border-box; }
